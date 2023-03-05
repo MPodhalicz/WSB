@@ -10,7 +10,7 @@
 <body>
 <h4>Użtkownicy</h4>
 <?php
-
+    require_once "../scripts/connect.php"
 ?>
 </body>
 </html>
